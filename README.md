@@ -42,7 +42,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanYoungUk&layout=compact&hide_border=true&langs_count=6" alt="Top Langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HanYoungUk&theme=default" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HanYoungUk&theme=default" alt="Most Commit Language"/>
 </p>
 
 <p align="center">
