@@ -4,6 +4,10 @@
   소소한 개발자 &nbsp;·&nbsp; C#으로 물류 자동화 시스템을 만들고, 퇴근 후엔 Flutter로 소소한 앱을 만듭니다.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HanYoungUk&style=flat-square&color=blue" alt="profile views"/>
+</p>
+
 <br>
 
 ---
@@ -33,6 +37,14 @@
 
 ### 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanYoungUk&show_icons=true&theme=default&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=HanYoungUk&theme=default&hide_border=true&locale=ko" alt="GitHub Streak"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanYoungUk&layout=compact&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanYoungUk&layout=compact&hide_border=true&langs_count=6" alt="Top Langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HanYoungUk&theme=flat&no-frame=true&column=6&margin-w=10" alt="Trophy"/>
+</p>
